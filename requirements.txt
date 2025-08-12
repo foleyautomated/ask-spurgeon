@@ -1,0 +1,9 @@
+sentence-transformers==2.2.2
+faiss-cpu==1.11.0
+pymupdf==1.23.14
+openai==1.6.1
+python-dotenv==1.0.0
+click==8.1.7
+rich==13.7.0
+numpy==1.24.3
+tiktoken==0.5.2
